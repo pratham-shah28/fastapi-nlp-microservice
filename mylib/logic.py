@@ -1,5 +1,4 @@
 import wikipedia
-from textblob import TextBlob
 
 
 def wiki(name="War Goddess", length=1):
